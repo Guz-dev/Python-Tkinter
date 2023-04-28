@@ -1,0 +1,1 @@
+ENTRIES = ["rut","nombre", "fecha_nacimiento"]
